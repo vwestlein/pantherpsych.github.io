@@ -168,6 +168,56 @@ function extrovert10() {
 
 }
 
+function ambivert1() {
+    document.getElementById("answer12").style.backgroundColor ="#95D47A";
+    document.getElementById("answer12").style.width = "48vw";
+}
+
+function ambivert2() {
+    document.getElementById("answer22").style.backgroundColor ="#95D47A";
+    document.getElementById("answer22").style.width = "48vw";
+}
+ 
+function ambivert3() {
+    document.getElementById("answer32").style.backgroundColor ="#95D47A";
+    document.getElementById("answer32").style.width = "48vw";
+}
+
+function ambivert4() {
+    document.getElementById("answer42").style.backgroundColor ="#95D47A";
+    document.getElementById("answer42").style.width = "48vw";
+}
+
+function ambivert5() {
+    document.getElementById("answer52").style.backgroundColor ="#95D47A";
+    document.getElementById("answer52").style.width = "48vw";
+}
+
+function ambivert6() {
+    document.getElementById("answer63").style.backgroundColor ="#95D47A";
+    document.getElementById("answer63").style.width = "48vw";
+}
+ 
+function ambivert7() {
+    document.getElementById("answer72").style.backgroundColor ="#95D47A";
+    document.getElementById("answer72").style.width = "48vw";
+}
+ 
+function ambivert8() {
+    document.getElementById("answer82").style.backgroundColor ="#95D47A";
+    document.getElementById("answer82").style.width = "48vw";
+}
+
+function ambivert9() {
+    document.getElementById("answer92").style.backgroundColor ="#95D47A";
+    document.getElementById("answer92").style.width = "48vw";
+}
+
+function ambivert10() {
+    document.getElementById("answer102").style.backgroundColor ="#95D47A";
+    document.getElementById("answer102").style.width = "48vw";
+}
+
 function results() {
     if (x > 5) {
         document.getElementById("personalitytype").innerHTML = "Introvert"; 
