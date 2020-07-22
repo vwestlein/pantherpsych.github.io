@@ -300,7 +300,7 @@ body {
 .questiontitle {
     text-align: center; 
     margin: auto; 
-    font-family: 'Lora', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 3vh;
     position: relative;
     top: 5vh;
@@ -904,7 +904,7 @@ body {
 
 .yourresult {
     text-align: center; 
-    font-family: 'Lora', serif;
+    font-family: 'Raleway', sans-serif;
     position: relative; 
     top: 1900px;
     left: -20vw; 
