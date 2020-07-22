@@ -913,7 +913,7 @@ body {
 
 .personalitytype {
     position: relative; 
-    font-family: 'Lora', serif; 
+    font-family: 'Raleway', sans-serif; 
     top: 1839px; 
     left: -7vw; 
     text-align: center; 
@@ -937,7 +937,7 @@ body {
     position: relative; 
     left: 27.5vw; 
     z-index: 1;
-    font-family: 'Lora', serif; 
+    font-family: 'Raleway', sans-serif; 
     font-size: 3vh; 
     text-align: center; 
     color: #3F647E;
